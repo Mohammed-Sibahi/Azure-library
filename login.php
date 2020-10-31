@@ -50,12 +50,12 @@ session_start();
 
                     <div class="form-group">
                         <label for="firstname"><b>First Name</b></label>
-                        <input class="out-input-style ms-depth-8" type="text" placeholder="Enter first name" name="fistname" id="firstname" required value='<?php echo ($firstname); ?>'>
+                        <input class="out-input-style ms-depth-8" type="text" placeholder="Enter first name" name="fistname" id="firstname" required>
                     </div>
 
                     <div class="form-group">
                         <label for="lastname"><b>Last Name</b></label>
-                        <input class="out-inpt-style ms-depth-8" type="text" placeholder="Enter last name" name="lastname" id="lastname" required value='<?php echo ($lastname); ?>'>
+                        <input class="out-inpt-style ms-depth-8" type="text" placeholder="Enter last name" name="lastname" id="lastname" required>
                     </div>
 
 
