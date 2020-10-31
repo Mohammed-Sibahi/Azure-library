@@ -1,2 +1,10 @@
-# Azure-library
-It's a PHP example with HTML, CSS, Bootstrap, and Fluent UI that simulates an Azure book library, implemented authentication, dealing with session and cookies, and simulating the exact design of the original website. 
+# Azure Library 
+This is one of my first projects with PHP. It has a 
+
+## Features included
+
+ - Authentication 
+ - Dealing with sessions
+ - Dealing with cookies
+## Some screenshots
+![Login page](https://github.com/Mohammed-Sibahi/Azure-library/blob/main/images/01.PNG?raw=true)![Home page](https://github.com/Mohammed-Sibahi/Azure-library/blob/main/images/02.PNG?raw=true)
