@@ -286,6 +286,8 @@ if (!isset($_SESSION['email'])) {
 
 </body>
 
+<!-- Write now I'm working on making it responsive -->
+
 <!--footer-->
 <footer>
   <div class="row footer">
