@@ -1,5 +1,5 @@
 # Azure Library 
-This is one of my first projects with PHP. It has a 
+This is one of my first projects with PHP. It has a  login page that leads to the homepage where the book "The developer's guide to azure" can be downloaded. It includes HTML, CSS, BOOTSTRAP & Microsoft Fluent UI, along with PHP. 
 
 ## Features included
 
